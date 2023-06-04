@@ -4,7 +4,7 @@
 <img align = "right" alt = "Data Analyst" width = "300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🌱 I’m currently learning **Data Analysis**
-<h3 align="left">----------------------------------------------------------------------------------------------</h3>
+<!-- <h3 align="left">----------------------------------------------------------------------------------------------</h3> -->
 <h3 align="left">About me:</h3>
 I'm a aspirirng Data Analyst with 2 years of experience as a Test Engineer and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. 
 
