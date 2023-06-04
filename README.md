@@ -4,7 +4,7 @@
 <img align = "right" alt = "Data Analyst" width = "300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🌱 I’m currently learning **Data Analysis**
-
+<h3 align="left">----------------------------------------------------------------------------------------------</h3>
 <h3 align="left">About me:</h3>
 I'm a aspirirng Data Analyst with 2 years of experience as a Test Engineer and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. 
 
@@ -26,7 +26,7 @@ Down below, I have listed some of the projects on which I have worked to showcas
 - 📱 Mobile Number - 7001792963 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing](https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing)
- 
+ <h3 align="left">----------------------------------------------------------------------------------------------</h3>
  <h3 align="left">Projects:</h3>
  
  Business Case 1: Analysis of an E-commerce sales dataset
@@ -38,7 +38,7 @@ Business Case 2: EDA on Netflix Movies & TV-shows dataset
   - Link: 
 
 
-
+<h3 align="left">----------------------------------------------------------------------------------------------</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayanpal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanpal22" height="30" width="40" /></a>
