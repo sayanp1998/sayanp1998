@@ -3,12 +3,14 @@
 <h1 align="center">Hi 👋, I'm Sayan Pal</h1>
 <h3 align="center">Currently Working as Test Engineer | Upskilling in Data Analysis & Machine Learning</h3>
 
-<img align = "right" alt = "Data Analyst" width = "300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<!-- ![masterhead](https://www.edureka.co/blog/wp-content/uploads/2018/12/Data-Analytics-What-is-Data-Analytics-Edureka-1.png)() -->
+
+<!-- <img align = "center" alt = "Data Analyst" width = "300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"> -->
 
 - 🌱 I’m currently learning **Data Analysis**
 <!-- <h3 align="left">----------------------------------------------------------------------------------------------</h3> -->
 <h3 align="left">About me:</h3>
-I'm a aspirirng Data Analyst with 2 years of experience as a Test Engineer and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. 
+I'm a aspirirng Data Analyst, 2 years of experience as a Test Engineer and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. 
 
 Down below, I have listed some of the projects on which I have worked to showcase my skills with:
 
