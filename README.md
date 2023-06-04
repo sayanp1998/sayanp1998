@@ -27,6 +27,17 @@ Down below, I have listed some of the projects on which I have worked to showcas
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing](https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing)
  
+ <h3 align="left">Projects:</h3>
+ 
+ Business Case 1: Analysis of an E-commerce sales dataset
+  - Skills: BigQuery(SQL), Tableau (for plotting)
+  - Link: 
+
+Business Case 2: EDA on Netflix Movies & TV-shows dataset
+  - Skills: Data Cleaning, EDA using Python Libraries, Data Visualization
+  - Link: 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
