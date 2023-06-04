@@ -23,7 +23,7 @@ Down below, I have listed some of the projects on which I have worked to showcas
 
 - 📫 How to reach me **psayan1998@gmail.com**
 
--    Mobile Number - 7001792963 
+- 📱 Mobile Number - 7001792963 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing](https://drive.google.com/file/d/1jd8Y0PPayTdYGag4QJ0OXfBV2B4gobuR/view?usp=sharing)
  
