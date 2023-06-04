@@ -7,13 +7,13 @@
 
 <!-- <img align = "center" alt = "Data Analyst" width = "300" src = "https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"> -->
 
-- 🌱 I’m currently learning **Data Analysis**
+
 <!-- <h3 align="left">----------------------------------------------------------------------------------------------</h3> -->
 <h3 align="left">About me:</h3>
 I'm a aspirirng Data Analyst, 2 years of experience as a Test Engineer and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. 
 
 Down below, I have listed some of the projects on which I have worked to showcase my skills with:
-
+  - 🌱 I’m currently learning **Data Analysis**
   - SQL (Joins, Group-By, Window-Functions, DateTime & String functions, CTEs, etc)
   - Data Cleaning
   - EDA to generate insights & curate recommendations relevant to the problem statement
