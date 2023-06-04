@@ -1,3 +1,5 @@
+![logo](https://github.com/sayanp1998/sayanp1998/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sayan Pal</h1>
 <h3 align="center">Currently Working as Test Engineer | Upskilling in Data Analysis & Machine Learning</h3>
 
